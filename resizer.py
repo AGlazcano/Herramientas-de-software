@@ -14,5 +14,3 @@ print(im.size)
 rotated = im.rotate(args.angle, expand=True)     # gira la imagen en un ángulo proporcionado como argumento
 rotated.save(args.output_file)                   # guarda la imagen girada usando la ruta de salida de un argumento output_file
 print(rotated.size)
-
-
