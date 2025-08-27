@@ -1,2 +1,3 @@
 # Herramientas-de-software
-Usos de co
+Procesamiento de imagen 
+Argumntos - los argumentos  de linea comandos  son similares 
